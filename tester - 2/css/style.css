@@ -14,7 +14,7 @@
 body {
     background-image: url(http://subtlepatterns.com/patterns/dark_wall.png);
     background-repeat: repeat;
-    height: 500px;
+    height: 100%;
     padding: 1px;
 }
 
@@ -22,7 +22,7 @@ h1 { color: white }
 
 #slideshow-wrap {
     display: block;
-    height: 320px;
+    height: 100%;
     min-width: 260px;
     max-width: 640px;
     margin: auto;
